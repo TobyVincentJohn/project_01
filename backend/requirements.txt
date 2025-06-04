@@ -1,0 +1,5 @@
+elevenlabs==2.1.0
+fastapi==0.115.12
+uvicorn==0.34.3
+twilio==9.6.1
+supabase==2.15.2
