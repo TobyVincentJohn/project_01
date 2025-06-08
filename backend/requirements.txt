@@ -2,4 +2,12 @@ elevenlabs==2.1.0
 fastapi==0.115.12
 uvicorn==0.34.3
 twilio==9.6.1
-supabase==2.15.2
+sqlalchemy==2.0.27
+alembic==1.13.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9  # For PostgreSQL
+python-multipart==0.0.9
+requests==2.31.0
+logging==0.4.9.6
